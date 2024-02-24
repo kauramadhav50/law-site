@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "@material-tailwind/react": "^2.1.8",
+    "react-typed": "^2.0.12"
+  }
+}

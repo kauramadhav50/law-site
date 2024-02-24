@@ -1,0 +1,99 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.bg-size {
+  height: 1000px;
+}
+
+.btn-size {
+  height: 50px;
+  width: 250px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.order-height {
+  height: 250px;
+  width: 800px;
+}
+
+.nav-decoration {
+  color: white;
+}
+
+.nav-decoration a:hover {
+  color: rgb(3, 3, 3);
+}
+
+.nav-decoration a.active {
+  color: rgb(0, 0, 0);
+}
+
+/* .nav-decoration Typography a:visited {
+  color: rgb(68, 66, 66);
+} */
+.sizeoffont {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.font-display {
+  font-family: DM Serif;
+}
+
+.appbtn {
+  background-color: rgb(36, 32, 32);
+  border-radius: 30px;
+  height: 50px;
+  width: 200px;
+}
+
+.appsbtn {
+  background-color: rgb(36, 32, 32);
+  border-radius: 30px;
+  height: 50px;
+  width: 300px;
+}
+
+.drop {
+  background-color: transparent;
+  padding-left: 20%;
+
+}
+
+.contact {
+  height: 12%;
+  width: auto;
+}
+
+.coperate-text {
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.coperate-para {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.call-now {
+  /* border:2px; */
+  border:yellow 2px solid;
+  margin-top: 10%;
+  margin-right:10px;
+  margin-left: 40px;
+}
+
+.call-text{
+  border:yellow 2px solid;
+  margin-bottom: 50px;
+  margin-right: 98%;
+
+}
